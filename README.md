@@ -1,3 +1,3 @@
 # justinshu.github.io
-个人博客基于hexo和gitpage
-具体搭建方式后续出教程，有问题可以私信我
+## 主页效果
+![index](https://github.com/Justinshu/my_statics/blob/master/justinshu_github_io/index.png?raw=true "首页效果图")
